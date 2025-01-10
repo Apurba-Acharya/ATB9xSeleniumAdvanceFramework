@@ -1,4 +1,4 @@
-package com.apurba.in.sample;
+package com.apurba.in.sample.tests.sample;
 
 import io.qameta.allure.Description;
 import org.testng.Assert;
