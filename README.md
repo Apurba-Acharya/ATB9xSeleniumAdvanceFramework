@@ -1,3 +1,5 @@
+mvn clean test -DsuiteXmlFile=testng.xml
+
 # Selenium Automation Framework(with Java)
 
 - Author - Pramod Dutta
