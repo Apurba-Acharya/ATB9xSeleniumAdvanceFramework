@@ -17,7 +17,6 @@ public class CommonToAllPage {
     //OPEN file, open database connection you can write code here
 
     //Method Overloading >
-
     public void openVWOUrl() throws IOException {
         getDriver().get(PropertiesReader.readKey(("url")));
     }
